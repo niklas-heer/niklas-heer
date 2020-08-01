@@ -7,7 +7,7 @@
 <h3 align="center">A curious person and the organizer of the /dev/night meetup living in Germany 🇩🇪 </h3>
 
 - 🤔 I’m looking for help with the [/dev/night](https://github.com/dev-night) meetup
-- 📫 How to reach me: [me@nheer.com](mailto:me@nheer.com)
+- 📫 How to reach me: [me@nheer.io](mailto:me@nheer.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I read a lot [📚](https://www.goodreads.com/user/show/72344845-niklas-heer)🤓
 
