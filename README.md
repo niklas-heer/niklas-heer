@@ -33,14 +33,11 @@ I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, lea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-heer&theme=default" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niklas-heer&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 ---
 
 <p align="center">
-  <a href="mailto:me@nheer.io">me@nheer.io</a> · he/him · <a href="https://www.goodreads.com/user/show/72344845-niklas-heer">I read a lot</a>
+  <a href="mailto:me@nheer.io">me@nheer.io</a> · he/him · <a href="https://nheer.com/reading">I read a lot</a>
 </p>
 
 <p align="center">
