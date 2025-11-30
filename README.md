@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 
-<p align="center">
-  <a href="https://nheer.com"><img src="https://img.shields.io/badge/Website-nheer.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://twitter.com/niklas_heer"><img src="https://img.shields.io/badge/X-@niklas__heer-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://linkedin.com/in/niklas-heer-b89364b8"><img src="https://img.shields.io/badge/LinkedIn-Niklas_Heer-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 <h3 align="center">Engineering Manager from Ansbach, Germany 🇩🇪</h3>
 
 <p align="center">
-I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, leading the Platform Engineering team. We're building an Internal Developer Platform (IDP). I've been with TradeByte for over 10 years in various roles and have been leading this team for more than 5 years.
+I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, leading the Platform Engineering team. We're building an Internal Developer Platform (IDP). I've been with TradeByte for over 10 years in various roles and have been leading this team for more than 5 years. <a href="https://nheer.com/reading">I read a lot.</a>
 </p>
 
 ---
@@ -28,17 +22,10 @@ I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, lea
 
 ---
 
-### GitHub Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-heer&theme=default" alt="GitHub Streak"/>
-</p>
-
-
----
-
-<p align="center">
-  <a href="mailto:me@nheer.io">me@nheer.io</a> · he/him · <a href="https://nheer.com/reading">I read a lot</a>
 </p>
 
 <p align="center">
