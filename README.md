@@ -3,7 +3,10 @@
 <h3 align="center">Engineering Manager from Ansbach, Germany 🇩🇪</h3>
 
 <p align="center">
-I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, leading the Platform Engineering team. We're building an Internal Developer Platform (IDP). I've been with TradeByte for over 10 years in various roles and have been leading this team for more than 5 years. <a href="https://nheer.com/reading">I read a lot.</a>
+I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, leading the Platform Engineering team.<br/>
+We're building an Internal Developer Platform (IDP).<br/>
+I've been with TradeByte for over 10 years in various roles and have been leading this team for more than 5 years.<br/>
+<a href="https://nheer.com/reading">I read a lot 📚</a>
 </p>
 
 ---
