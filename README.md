@@ -1,36 +1,33 @@
-<h1 align="center">Hi 👋, I'm Niklas</h1>
-
-<h3 align="center">Engineering Manager from Ansbach, Germany 🇩🇪</h3>
+<h1 align="center">Hey, I'm Niklas 👋</h1>
 
 <p align="center">
-I'm an Engineering Manager at <a href="https://tradebyte.com">TradeByte</a>, leading the Platform Engineering team.<br/>
-We're building an Internal Developer Platform (IDP).<br/>
-I've been with TradeByte for over 10 years in various roles and have been leading this team for more than 5 years.<br/>
-<a href="https://nheer.com/reading">I read a lot 📚</a>
-</p>
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-</p>
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-heer&theme=default" alt="GitHub Streak"/>
+  <strong>Less friction. More building.</strong><br/>
+  Engineering manager · Developer tools maker · Ansbach, Germany
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niklas-heer&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://nheer.com">Website</a> ·
+  <a href="https://nheer.com/posts">Writing</a> ·
+  <a href="https://nheer.com/reading">Reading</a>
 </p>
+
+I lead Platform Engineering at [Tradebyte](https://www.tradebyte.com), where we're building an Internal Developer Platform to help engineering teams ship software with less friction.
+
+Outside work, I build open-source tools for the same reason. I like small, focused utilities. This occasionally escalates into building a shell.
+
+### Find your next tool
+
+| If you want to… | Take a look at… |
+| :--- | :--- |
+| **Turn architecture into diagrams** | [**Sceno**](https://github.com/niklas-heer/sceno) — describe it in text, preview locally, export diagrams and slides. Built for humans and AI agents. |
+| **Keep your todos in your repo** | [**tdx**](https://github.com/niklas-heer/tdx) — a terminal todo manager with Vim-style navigation. Your tasks stay in plain Markdown. |
+| **Ship a CLI as one binary** | [**Kipferl**](https://github.com/niklas-heer/kipferl) — write Python-style scripts and package them as standalone binaries with fast startup. |
+| **Explore a different kind of shell** | [**Quirl**](https://github.com/niklas-heer/quirl) — familiar Bash commands, typed data pipelines, and Lua extensions. |
+
+Also worth a rabbit hole: [**speed-comparison**](https://github.com/niklas-heer/speed-comparison), an experiment comparing programming-language performance, and my [**dotfiles**](https://github.com/niklas-heer/dotfiles), for the terminal-curious.
+
+### Usually within reach
+
+**Building tools:** Go · Rust · Python · TypeScript<br/>
+**Building platforms:** AWS · Docker<br/>
+**Away from the keyboard:** [A book](https://nheer.com/reading). Often followed by another book.
