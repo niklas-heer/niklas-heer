@@ -20,6 +20,7 @@ Outside work, I build open-source tools with a shared shape: **local-first, one 
 | If you want to… | Take a look at… |
 | :--- | :--- |
 | **Keep your todos in your repo** | [**tdx**](https://github.com/niklas-heer/tdx) — a terminal todo manager with Vim-style navigation. Your tasks stay in plain Markdown. |
+| **Launch apps with a key sequence** | [**Keywink**](https://github.com/niklas-heer/Keywink) — a native macOS launcher. Type a few letters; the on-screen guide shows the way. Config stays in JSON. |
 | **Remember why you decided something** | [**vrdx**](https://github.com/niklas-heer/vrdx) — engineering decision records in Markdown, with a local dashboard and structured context for agents. |
 | **Turn architecture into diagrams** | [**Sceno**](https://github.com/niklas-heer/sceno) — describe it in KDL, preview locally, export SVG, PDF and slides. Agents can iterate until it validates. |
 | **Give an agent credentials without handing over the vault** | [**Latchrun**](https://github.com/niklas-heer/latchrun) — scoped sessions from 1Password or pass, approved commands only, replay-safe. |
